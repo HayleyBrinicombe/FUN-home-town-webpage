@@ -1,0 +1,25 @@
+body {
+    background-color: white;
+}
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+h1.rainbow {
+    color: yellow;
+    background-color:DodgerBlue;
+    text-align: center;
+}
+
+p {
+    color: blueviolet;
+}
+ul {
+    color: brown;
+    list-style-type: lower-alpha;
+}
+img {
+    border-radius: 80px;
+
+}
