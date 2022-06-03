@@ -11,6 +11,8 @@ h1 {
   text-align: center;
   font-size: 50px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border-style: groove;
+  border-color: black;
 }
 
 h1.rainbow {
@@ -34,4 +36,18 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 40%;
+}
+img.thumbnail {
+  border-radius: 80px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+}
+
+img.listthumbnail {
+  border-radius: 5px;
+  width: 100px;
+  float: left;
+  padding: 10px;
 }
